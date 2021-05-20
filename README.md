@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm QA engineer.  
+I'm interested in test automation.  
+You can find my Linkedin account [here](https://www.linkedin.com/in/elena-milshina-87730b92/).
 
 <!--
 **emilshina/emilshina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
